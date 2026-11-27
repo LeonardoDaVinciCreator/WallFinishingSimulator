@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scene/ActivationScene.unity
+    guid: cbe22a75ee15df8458282049f76f24ab
+  - enabled: 0
+    path: "Assets/Scene/_StructureLab/2. \u041E\u0448\u0442\u0443\u043A\u0430\u0442\u0443\u0440\u0438\u0432\u0430\u043D\u0438\u0435
+      \u043B\u0443\u0437\u0433\u043E\u0432\u043E\u0433\u043E, \u0443\u0441\u0435\u043D\u043E\u0447\u043D\u043E\u0433\u043E
+      \u0443\u0433\u043B\u0430_/_Scenes/2_Main.unity"
+    guid: 5b45395ef0e1ab9438e99ab1bcc6ebc9
+  - enabled: 0
+    path: "Assets/Scene/_StructureLab/3. \u041E\u0448\u0442\u0443\u043A\u0430\u0442\u0443\u0440\u0438\u0432\u0430\u043D\u0438\u0435
+      \u0434\u0432\u0435\u0440\u043D\u044B\u0445, \u043E\u043A\u043E\u043D\u043D\u044B\u0445
+      \u043E\u0442\u043A\u043E\u0441\u043E\u0432/Scenes/3_Main.unity"
+    guid: dcdd9646322aea34d85bd70be6222a68
+  - enabled: 0
+    path: "Assets/Scene/_StructureLab/4. \u041E\u0448\u0442\u0443\u043A\u0430\u0442\u0443\u0440\u0438\u0432\u0430\u043D\u0438\u0435
+      4-\u0445 \u0433\u0440\u0430\u043D\u043D\u044B\u0445, \u043A\u0440\u0443\u0433\u043B\u044B\u0445
+      \u043A\u043E\u043B\u043E\u043D\u043D/Scenes/4_Main.unity"
+    guid: 1c4d463c953bee646b39367d46e761d4
+  - enabled: 0
+    path: "Assets/Scene/_StructureLab/7. \u0428\u0442\u0443\u043A\u0430\u0442\u0443\u0440\u043D\u044B\u0435
+      \u0440\u0430\u0431\u043E\u0442\u044B \u0432 \u0437\u0438\u043C\u043D\u0435\u0435
+      \u0432\u0440\u0435\u043C\u044F/Scenes/7_Main.unity"
+    guid: 7b9b03035b964a946abcd4703afc490f
+  - enabled: 0
+    path: "Assets/Scene/_StructureLab/6. \u0420\u0435\u043C\u043E\u043D\u0442 \u043E\u0448\u0442\u0443\u043A\u0430\u0442\u0443\u0440\u0435\u043D\u043D\u043E\u0439
+      \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0438/Scenes/6_Main.unity"
+    guid: 87111b684c7f49142ad67814d6e7fafe
+  - enabled: 0
+    path: "Assets/Scene/_StructureLab/8. \u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F
+      \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u0434\u0435\u043A\u043E\u0440\u0430\u0442\u0438\u0432\u043D\u044B\u0445
+      \u0448\u0442\u0443\u043A\u0430\u0442\u0443\u0440\u043E\u043A/Scenes/8_Main.unity"
+    guid: 4fa4bbfd350174f46a62bf36e5eb2916
+  - enabled: 1
+    path: "Assets/Scene/_StructureLab/9. \u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0421\u0424\u0422\u041A/_Scenes/1.unity"
+    guid: b669dfe3cbe250b4abc65f751cf0b5c1
+  - enabled: 1
+    path: "Assets/Scene/_StructureLab/10. \u041F\u0440\u043E\u0432\u0435\u0448\u0438\u0432\u0430\u043D\u0438\u0435
+      \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0435\u0439/Scenes/10_Main.unity"
+    guid: 54d8cae9c8b97f141ae36851d1d93465
+  - enabled: 1
+    path: "Assets/Scene/FinishingWork/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0434\u043E\u0449\u0430\u0442\u043E\u0433\u043E \u043F\u043E\u043B\u0430 \u043F\u043E
+      \u0433\u0440\u0443\u043D\u0442\u0443/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0434\u043E\u0449\u0430\u0442\u043E\u0433\u043E \u043F\u043E\u043B\u0430 \u043F\u043E
+      \u0433\u0440\u0443\u043D\u0442\u0443.unity"
+    guid: fae72054676647f4ab75dc7af45675eb
+  - enabled: 1
+    path: "Assets/Scene/FinishingWork/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0434\u043E\u0449\u0430\u0442\u043E\u0433\u043E \u043F\u043E\u043B\u0430 \u043F\u043E
+      \u0416\u0411 \u043F\u0435\u0440\u0435\u043A\u0440\u044B\u0442\u0438\u044E/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0434\u043E\u0449\u0430\u0442\u043E\u0433\u043E \u043F\u043E\u043B\u0430 \u043F\u043E
+      \u0416\u0411 \u043F\u0435\u0440\u0435\u043A\u0440\u044B\u0442\u0438\u044E.unity"
+    guid: bb3a4695930b062489f1a13a09f32616
+  - enabled: 1
+    path: "Assets/Scene/FinishingWork/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0433\u043E \u043F\u043E\u043B\u0430/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u043D\u0430\u043B\u0438\u0432\u043D\u043E\u0433\u043E \u043F\u043E\u043B\u0430.unity"
+    guid: fbbc83f519b576c499e77adefe417fea
+  - enabled: 1
+    path: "Assets/Scene/FinishingWork/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0441\u0442\u0435\u043D\u043E\u0432\u044B\u0445 \u043F\u0435\u0440\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u043A
+      (\u043A\u043E\u043C\u043D\u0430\u0442\u0430)/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u0441\u0442\u0435\u043D\u043E\u0432\u044B\u0445 \u043F\u0435\u0440\u0435\u0433\u043E\u0440\u043E\u0434\u043E\u043A
+      (\u043A\u043E\u043C\u043D\u0430\u0442\u0430).unity"
+    guid: 5f520ca26f37905439dd3412a95a710a
+  - enabled: 1
+    path: "Assets/Scene/FinishingWork/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u043D\u0430\u0442\u044F\u0436\u043D\u044B\u0445 \u043F\u043E\u0442\u043E\u043B\u043A\u043E\u0432/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u043D\u0430\u0442\u044F\u0436\u043D\u044B\u0445 \u043F\u043E\u0442\u043E\u043B\u043A\u043E\u0432.unity"
+    guid: 2206e0a4daf17724983e37921b5a15bc
+  - enabled: 1
+    path: "Assets/Scene/FinishingWork/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u043F\u043E\u0434\u0432\u0435\u0441\u043D\u044B\u0445 \u043F\u043E\u0442\u043E\u043B\u043A\u043E\u0432/\u0423\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E
+      \u043F\u043E\u0434\u0432\u0435\u0441\u043D\u044B\u0445 \u043F\u043E\u0442\u043E\u043B\u043A\u043E\u0432.unity"
+    guid: 03cab91bb37d2574d8c8317eafb48ad3
+  - enabled: 1
+    path: Assets/Scene/PaintingWorks/beton/PaintingWorksBeton.unity
+    guid: b4f4a759fd545ac408d4faddbc2e8435
+  - enabled: 1
+    path: Assets/Scene/PaintingWorks/brick/PaintingWorksBrick.unity
+    guid: af5c03ca097e1b442b9f52b66fd2648c
+  - enabled: 1
+    path: Assets/Scene/PaintingWorks/gips/PaintingWorksGKL.unity
+    guid: 23f1c2b0906093741ab05a3f1865b8f0
+  - enabled: 1
+    path: Assets/Scene/FacingWorks/Facing.unity
+    guid: 91a7dc6b66e559c46b407b6ec6303007
+  - enabled: 1
+    path: Assets/Scene/RullonieWorks/RulonWorks.unity
+    guid: a2d7d85c8334ca74eb9349fd45705382
+  - enabled: 1
+    path: "Assets/Scene/FloorsWork/\u041F\u043E\u043B\u044B \u0441 \u0448\u0443\u043C\u043E\u0438\u0437\u043E\u043B\u044F\u0446\u0438\u0435\u0439/\u041F\u043E\u043B\u044B
+      \u0441 \u0448\u0443\u043C\u043E\u0438\u0437\u043E\u043B\u044F\u0446\u0438\u0435\u0439.unity"
+    guid: de4eefe6e44999f469a1e5ceef0315dd
+  - enabled: 1
+    path: Assets/Scene/FinishingFloor/FinishingRoof.unity
+    guid: 2c05a03552bed544d9a7aa901dd5fc25
+  - enabled: 1
+    path: Assets/Scene/WatchMachines/WatchMachines.unity
+    guid: 43b45bf224f14a3409df102838bc1bdd
+  - enabled: 1
+    path: Assets/Scene/MainMenu/MainMenu.unity
+    guid: 29adf5d321e051f438bc40747b28ec9e
+  m_configObjects: {}
